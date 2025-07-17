@@ -1,0 +1,23 @@
+{
+  "name": "mock-payment-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajkumar3130/mock-payment-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajkumar3130/mock-payment-api/issues"
+  },
+  "homepage": "https://github.com/rajkumar3130/mock-payment-api#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
